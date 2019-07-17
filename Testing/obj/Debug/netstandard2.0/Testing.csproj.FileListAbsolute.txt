@@ -1,0 +1,14 @@
+D:\code\Testing\Testing\bin\Debug\netstandard2.0\Testing.deps.json
+D:\code\Testing\Testing\bin\Debug\netstandard2.0\Testing.dll
+D:\code\Testing\Testing\bin\Debug\netstandard2.0\ref\Testing.dll
+D:\code\Testing\Testing\bin\Debug\netstandard2.0\Testing.pdb
+D:\code\Testing\Testing\obj\Debug\netstandard2.0\Testing.csprojAssemblyReference.cache
+D:\code\Testing\Testing\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\code\Testing\Testing\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\code\Testing\Testing\obj\Debug\netstandard2.0\Testing.csproj.CoreCompileInputs.cache
+D:\code\Testing\Testing\obj\Debug\netstandard2.0\Testing.AssemblyInfoInputs.cache
+D:\code\Testing\Testing\obj\Debug\netstandard2.0\Testing.AssemblyInfo.cs
+D:\code\Testing\Testing\obj\Debug\netstandard2.0\XamlC.stamp
+D:\code\Testing\Testing\obj\Debug\netstandard2.0\Testing.dll
+D:\code\Testing\Testing\obj\Debug\netstandard2.0\ref\Testing.dll
+D:\code\Testing\Testing\obj\Debug\netstandard2.0\Testing.pdb
