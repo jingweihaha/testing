@@ -17,13 +17,13 @@ namespace Testing.Droid
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
-            try
-            {
+            
                 AppCenter.Start("android=8592b4af-7a76-4d5c-a7af-9e18c1f77d6c;" +
                   "uwp={Your UWP App secret here};" +
                   "ios={Your iOS App secret here}",
                   typeof(Analytics), typeof(Crashes));
-
+            try
+            {
                 TabLayoutResource = Resource.Layout.Tabbar;
                 ToolbarResource = Resource.Layout.Toolbar;
 
