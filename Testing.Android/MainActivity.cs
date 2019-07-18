@@ -20,7 +20,7 @@ namespace Testing.Droid
             
                 AppCenter.Start("android=8592b4af-7a76-4d5c-a7af-9e18c1f77d6c;" +
                   "uwp={Your UWP App secret here};" +
-                  "ios={Your iOS App secret here}",
+                  "ios={ios = b9f11001 - 2161 - 4c21 - bd2b - f618326cbc14;}",
                   typeof(Analytics), typeof(Crashes));
             try
             {
